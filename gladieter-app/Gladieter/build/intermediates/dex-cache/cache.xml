@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.androidplot/androidplot-core/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="501b766e3e09c0ce0f01ee9af4a82bdc8fb6dc71">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.androidplot-androidplot-core-1.4.0_483095fef0b90fd46ffcb4ea2fc4296c24ff0d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4aab70c530f528e03f3a90eec7b486a92daf4339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_70321b54108e741ad0f6ef6d538e12da3d9124e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_475858d4dc9a3a1fb061ca3b29a49d1026fcddea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_52586d3ff52372d0dd9ef409f7031e46e8979dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_0ff0aba4c09777fda5508c612c34165e03ffcfb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c3ca9d69db061ab33158f491d3ed9ce17f62627c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_d7fab61ad63782921d2125636adab6973d469c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_ec39984c83274f6c724db7b0a6c07cccce92af24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M3/204c594c2a47073b30d3cb14ca69ba1066c4e44c/spring-android-rest-template-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="204c594c2a47073b30d3cb14ca69ba1066c4e44c">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-rest-template-2.0.0.M3_ef2e58c68f87412f7c007351cc092970e0943c05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9466794aa7cad80b1832aaadc9733e3cbdd8f18e">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6da60b53e45387687448d1fe565f4bca4acc9a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a37937c3fb25f7174c0f9a22e8f4c7ad3025186">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_50de6e82a3d9978b6ba45a9b17b9197bce26638d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_181605a5feed80edaa18d26dc65b6fa86d44d383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.4.0_4dc19f370f06611ac571127707155159e52b84cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_aa34becbfd7f693a06a2b8b6f2c2ba601a3139ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_31c56beb82cab3f53cf267d6e270acbb7e0a88ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cebe7f1a29023c2d145ecf450a28cad46ca6d2db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.halfhp.fig/figlib/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de8046139933d665ec919c8052042ac1c6020a36">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.halfhp.fig-figlib-1.0.3_bf7490235b3ae14c6f44e64aa1c996bef665152f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_53f86e4e3bad96da3c8dd8a55ff638919ac42bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M3/c7e2c60943248bbce5de6cf552592281ed2296b/spring-android-core-2.0.0.M3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c7e2c60943248bbce5de6cf552592281ed2296b">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/spring-android-core-2.0.0.M3_cef9fa50c315d6edce8aea8968e2d6fb29c584f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_921c3eadcafe09350075eef878af980a083a7ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_70c8749f7c915ed51fa5b245d88fb42eafcb3a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wladimir/Gladieter/gladieter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/wladimir/Gladieter/gladieter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_9ba5773b53d82c314146ada37387684184d00000/classes.dex" />
+    </item>
+
+</items>

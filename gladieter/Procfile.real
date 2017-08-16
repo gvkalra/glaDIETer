@@ -1,0 +1,2 @@
+web: gunicorn gladieter.wsgi
+worker: celery --app=gladieter.celery:app worker --loglevel=DEBUG --without-gossip --without-mingle --without-heartbeat --beat

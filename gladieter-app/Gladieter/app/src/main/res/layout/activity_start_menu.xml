@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ap="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="cs620.gladieter.StartMenu">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1">
+
+        <com.androidplot.xy.XYPlot
+            android:id="@+id/nutritionHistory"
+            android:layout_width="match_parent"
+            android:layout_height="303dp"
+            android:layout_weight="0.32"
+            ap:title="Consumed Nutrition"
+            ap:domainTitle="Gram"
+            ap:graphMarginBottom="30dp"
+            ap:legendVisible="true"
+            ap:legendIconHeight="10dp"
+            ap:legendIconWidth="10dp"
+            ap:legendHeight="25dp"
+            ap:legendTextSize="10dp"
+            ap:legendHorizontalPosition="-20dp"
+            ap:legendWidthMode="fill"
+            ap:rangeTitle="range"
+            ap:lineLabels="left"
+            ap:lineLabelRotationBottom="-90"/>
+
+        <Button
+            android:text="Scan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnScan"
+            android:onClick="onScan" />
+
+        <Button
+            android:text="Statistics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnStats"
+            android:onClick="onStats" />
+
+        <Button
+            android:text="Paring"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnParing"
+            android:layout_weight="0.32"
+            android:onClick="onPairing" />
+    </LinearLayout>
+</RelativeLayout>

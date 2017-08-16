@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns5:queryByGtinResponse xmlns:ns6="urn:gs1:tsd:product_data:xsd:1" xmlns:ns5="urn:gs1:tsd:query_by_gtin_response:xsd:1" xmlns:ns8="urn:gs1:tsd:basic_product_information_module:xsd:1" xmlns:ns7="urn:gs1:tsd:nutritional_product_information_module:xsd:1" xmlns:ns13="urn:gs1:tsd:nonfood_ingredient_information_module:xsd:1" xmlns:ns9="urn:gs1:tsd:product_allergen_information_module:xsd:1" xmlns:ns12="urn:gs1:tsd:food_and_beverage_preparation_information_module:xsd:1" xmlns:ns11="urn:gs1:tsd:product_origin_information_module:xsd:1" xmlns:ns10="urn:gs1:tsd:product_instructions_module:xsd:1" xmlns:ns2="urn:gs1:tsd:product_claims_and_endorsements_module:xsd:1" xmlns:ns4="urn:gs1:tsd:product_quantity_information_module:xsd:1" xmlns:ns3="urn:gs1:tsd:food_and_beverage_information_module:xsd:1">
+    <productData>
+        <gtin>08801043015981</gtin>
+        <targetMarket codeListVersion="1.1">410</targetMarket>
+        <informationProviderGLN>3250001325028</informationProviderGLN>
+        <informationProviderName>NongShim</informationProviderName>
+        <productDataRecord>
+            <modules>
+                <module xsi:type="ns8:TSD_BasicProductInformationModuleType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <productName languageCode="en">ShinRamen</productName>
+                    <brandNameInformation>
+                        <brandName>NongShim</brandName>
+                    </brandNameInformation>
+                </module>
+                <module xsi:type="ns11:TSD_ProductOriginInformationModuleType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <productOriginStatement languageCode="en" codeListVersion="1.1">YoiDeaBang-ro 112, DongJak-gu, Seoul</productOriginStatement>
+                    <productActivityDetails>
+                        <productActivityTypeCode codeListVersion="1.1">0000-00-00T00:00:00.000000Z</productActivityTypeCode>
+                    </productActivityDetails>
+                </module>
+                <module xsi:type="ns7:TSD_NutritionalProductInformationModuleType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <nutrientHeader>
+                        <preparationStateCode codeListVersion="1.1">UNPREPARED</preparationStateCode>
+                        <dailyValueIntakeReference languageCode="en" codeListVersion="1.1">Based on one product.</dailyValueIntakeReference>
+                        <servingSizeDescription languageCode="en" codeListVersion="1.1">per one product (114g).</servingSizeDescription>
+                        <nutrientDetail>
+                            <nutrientTypeCode codeListVersion="1.1">fat</nutrientTypeCode>
+                            <dailyValueIntakePercent>33</dailyValueIntakePercent>
+                            <quantityContained measurementUnitCode="GR" codeListVersion="1.1">17</quantityContained>
+                        </nutrientDetail>
+                        <nutrientDetail>
+                            <nutrientTypeCode codeListVersion="1.1">cholesterol</nutrientTypeCode>
+                            <dailyValueIntakePercent>0</dailyValueIntakePercent>
+                            <quantityContained measurementUnitCode="GR" codeListVersion="1.1">0</quantityContained>
+                        </nutrientDetail>
+                        <nutrientDetail>
+                            <nutrientTypeCode codeListVersion="1.1">sodium</nutrientTypeCode>
+                            <dailyValueIntakePercent>78</dailyValueIntakePercent>
+                            <quantityContained measurementUnitCode="GR" codeListVersion="1.1">1.550</quantityContained>
+                        </nutrientDetail>
+                        <nutrientDetail>
+                            <nutrientTypeCode codeListVersion="1.1">protein</nutrientTypeCode>
+                            <dailyValueIntakePercent>15</dailyValueIntakePercent>
+                            <quantityContained measurementUnitCode="GR" codeListVersion="1.1">8</quantityContained>
+                        </nutrientDetail>
+                    </nutrientHeader>
+                </module>
+                <module xsi:type="ns12:TSD_FoodAndBeveragePreparationInformationModuleType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <servingSuggestion languageCode="en">240</servingSuggestion>
+                </module>
+                <module xsi:type="ns2:TSD_ProductClaimsAndEndorsementsModuleType" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    <warningStatement languageCode="en" codeListVersion="1.1">OK</warningStatement>
+                    <avpList>
+                        <stringAVP name="notice">2017-06-07T00:00:00.000000Z</stringAVP>
+                    </avpList>
+                </module>
+            </modules>
+        </productDataRecord>
+    </productData>
+</ns5:queryByGtinResponse>
+
+
